@@ -5,6 +5,9 @@ body {
   line-height: 1.42857143;
   color: #c8c8c8;
   background-color: grey;
+  }
+
+p{
   padding-top: 70px;
 }
 
@@ -28,3 +31,5 @@ body {
 h4{
   color: maroon;
 }
+
+object, iframe {z-index: 1; position: relative; background: transparent}
